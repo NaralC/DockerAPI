@@ -1,3 +1,5 @@
+Link to site: http://dockerapi.southeastasia.azurecontainer.io/swagger/index.html
+
 Things learned:
 - Docker images
 - Docker containers
